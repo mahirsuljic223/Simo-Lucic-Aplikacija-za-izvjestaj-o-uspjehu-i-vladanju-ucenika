@@ -1,0 +1,34 @@
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\bin\Debug\Google-Classroom-Logo.ico
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Aplikacija za izvjestaj o uspjehu i vladanju ucenika.csproj.AssemblyReference.cache
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Aplikacija_za_izvjestaj_o_uspjehu_i_vladanju_ucenika.DeleteClass.resources
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Aplikacija_za_izvjestaj_o_uspjehu_i_vladanju_ucenika.DeleteStudent.resources
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Aplikacija_za_izvjestaj_o_uspjehu_i_vladanju_ucenika.DeleteSubject.resources
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Aplikacija_za_izvjestaj_o_uspjehu_i_vladanju_ucenika.EditClass.resources
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Aplikacija_za_izvjestaj_o_uspjehu_i_vladanju_ucenika.EditSubject.resources
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Aplikacija_za_izvjestaj_o_uspjehu_i_vladanju_ucenika.InputClass.resources
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Aplikacija_za_izvjestaj_o_uspjehu_i_vladanju_ucenika.InputGrades.resources
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Aplikacija_za_izvjestaj_o_uspjehu_i_vladanju_ucenika.InputSubject.resources
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Aplikacija_za_izvjestaj_o_uspjehu_i_vladanju_ucenika.OpenClass.resources
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Aplikacija_za_izvjestaj_o_uspjehu_i_vladanju_ucenika.ViewClass.resources
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Aplikacija_za_izvjestaj_o_uspjehu_i_vladanju_ucenika.EditStudent.resources
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Aplikacija_za_izvjestaj_o_uspjehu_i_vladanju_ucenika.InputStudent.resources
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Aplikacija_za_izvjestaj_o_uspjehu_i_vladanju_ucenika.ClassMenu.resources
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Aplikacija_za_izvjestaj_o_uspjehu_i_vladanju_ucenika.StartMenu.resources
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Aplikacija_za_izvjestaj_o_uspjehu_i_vladanju_ucenika.ViewGrades.resources
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Aplikacija_za_izvjestaj_o_uspjehu_i_vladanju_ucenika.ViewStudent.resources
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Aplikacija_za_izvjestaj_o_uspjehu_i_vladanju_ucenika.ViewSubject.resources
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Aplikacija za izvjestaj o uspjehu i vladanju ucenika.csproj.GenerateResource.cache
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Aplikacija za izvjestaj o uspjehu i vladanju ucenika.csproj.CoreCompileInputs.cache
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Aplikacija za izvjestaj o uspjehu i vladanju ucenika.csproj.CopyComplete
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\bin\Debug\Digitalni dnevnik.exe.config
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\bin\Debug\Digitalni dnevnik.exe.manifest
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\bin\Debug\Digitalni dnevnik.application
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\bin\Debug\Digitalni dnevnik.exe
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\bin\Debug\Digitalni dnevnik.pdb
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Digitalni_dnevnik.Properties.Resources.resources
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Digitalni dnevnik.exe.manifest
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Digitalni dnevnik.application
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Digitalni dnevnik.exe
+C:\Users\Mahir\source\repos\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\Aplikacija za izvjestaj o uspjehu i vladanju ucenika\obj\Debug\Digitalni dnevnik.pdb

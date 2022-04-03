@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a51c5a3b-200e-4afa-b237-9acc308014bc": {
+      "ProjectGuid": "a51c5a3b-200e-4afa-b237-9acc308014bc",
+      "DisplayName": "Aplikacija za izvjestaj o uspjehu i vladanju ucenika",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
